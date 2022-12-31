@@ -1,19 +1,16 @@
 body {
     margin: 0;
     background-color: grey;
-    width: 100%;
-}
-
-.search-bar-container {
-
     display: flex;
-    flex-direction: column;
-    text-align: center;
     align-items: center;
+    justify-content: center;
     height: 100vh;
 }
 
-img {
-    width: 100px;
-    height: 100px;
+.magnifier {
+    width: 25px;
+}
+
+.microphone {
+    width: 30px;
 }
