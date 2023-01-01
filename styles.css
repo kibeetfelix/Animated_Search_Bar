@@ -7,6 +7,11 @@ body {
     height: 100vh;
 }
 
+.search-container {
+    display: flex;
+    align-items: center;
+}
+
 .magnifier {
     width: 25px;
 }
