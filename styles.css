@@ -39,4 +39,18 @@ body {
     background-color: transparent;
     border: none;
     margin: 10px 50px;
+    outline: none;
+    color: rgb(100, 100, 100);
+}
+
+.active .search-bar-container {
+    width: 50px;
+}
+
+.active .input {
+    width: 0;
+}
+
+.active .microphone {
+    width: 0;
 }
